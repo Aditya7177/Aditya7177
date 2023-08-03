@@ -10,4 +10,3 @@
 - ⚡ Fun fact: I hate CP that's why prefer development.
 - My portfolio ---> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay-86&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
